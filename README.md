@@ -1,18 +1,4 @@
-<div align="center">
-  <img src="./public/assets/DevSecOps.png" alt="Logo" width="100%" height="100%">
 
-  <br>
-  <a href="http://netflix-clone-with-tmdb-using-react-mui.vercel.app/">
-    <img src="./public/assets/netflix-logo.png" alt="Logo" width="100" height="32">
-  </a>
-</div>
-
-<br />
-
-<div align="center">
-  <img src="./public/assets/home-page.png" alt="Logo" width="100%" height="100%">
-  <p align="center">Home Page</p>
-</div>
 
 # **Youtube Video for step by step Demonstration!**
 [![Video Tutorial](https://img.youtube.com/vi/g8X5AoqCJHc/0.jpg)](https://youtu.be/g8X5AoqCJHc)
@@ -755,5 +741,6 @@ To deploy an application with ArgoCD, you can follow these steps, which I'll out
 **Phase 7: Cleanup**
 
 1. **Cleanup AWS EC2 Instances:**
-    - Terminate AWS EC2 instances that are no longer needed.#   D e v o p s _ A l l _ P r o j e c t s  
+    - Terminate AWS EC2 instances that are no longer needed.#   D e v o p s _ A l l _ P r o j e c t s 
+ 
  
